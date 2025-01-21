@@ -212,10 +212,3 @@ This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE
 - **University:** University of Tehran
 - **Field:** Computer and Electrical Engineering
 
-This repository was created as part of the coursework for the Probability and Statistics course at the University of Tehran. **All rights to the content are reserved.**
-
----
-
-Feel free to explore each assignment folder for detailed code implementations, reports, and additional resources related to each assignment.
-
-If you have any questions or suggestions, please open an issue or submit a pull request.
